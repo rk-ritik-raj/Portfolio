@@ -2,19 +2,6 @@
 
 A modern, fully responsive personal portfolio website built to showcase my skills, projects, achievements, and contact information. The website features a clean UI, smooth animations, and an engaging user experience across all devices.
 
----
-
-## 🚀 Live Demo
-
-
----
-
-## 📸 Preview
-
-![Portfolio Preview](./assets/preview.png)
-
----
-
 ## ✨ Features
 
 - 🎨 Modern and Attractive UI
