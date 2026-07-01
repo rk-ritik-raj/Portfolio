@@ -1,16 +1,175 @@
-# React + Vite
+# 🌐 Personal Portfolio Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+A modern, fully responsive personal portfolio website built to showcase my skills, projects, achievements, and contact information. The website features a clean UI, smooth animations, and an engaging user experience across all devices.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 🚀 Live Demo
 
-## React Compiler
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the Oxlint configuration
+## 📸 Preview
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+![Portfolio Preview](./assets/preview.png)
+
+---
+
+## ✨ Features
+
+- 🎨 Modern and Attractive UI
+- 📱 Fully Responsive Design
+- 🌙 Dark Theme
+- ⚡ Smooth Animations
+- 👨‍💻 About Me Section
+- 🛠️ Skills Showcase
+- 📂 Projects Section
+- 📜 Resume Download
+- 📞 Contact Form
+- 🌐 Social Media Links
+- 🚀 Fast Performance
+- 🔍 SEO Friendly
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+
+- HTML5
+- CSS3
+- JavaScript (ES6)
+- React.js
+- Tailwind CSS
+
+### Tools
+
+- Git
+- GitHub
+- VS Code
+
+---
+
+## 📁 Project Structure
+
+```
+Portfolio/
+│
+├── public/
+├── src/
+│   ├── assets/
+│   ├── components/
+│   ├── pages/
+│   ├── App.jsx
+│   └── main.jsx
+│
+├── package.json
+├── README.md
+└── vite.config.js
+```
+
+---
+
+## ⚙️ Installation
+
+Clone the repository
+
+```bash
+git clone https://github.com/rk-ritik-raj/Portfolio.git
+```
+
+Move to the project folder
+
+```bash
+cd Portfolio
+```
+
+Install dependencies
+
+```bash
+npm install
+```
+
+Start development server
+
+```bash
+npm run dev
+```
+
+Build for production
+
+```bash
+npm run build
+```
+
+---
+
+## 📌 Sections
+
+- Home
+- About
+- Skills
+- Projects
+- Education
+- Experience
+- Resume
+- Contact
+
+---
+
+## 💻 Projects Included
+
+- 🌟 Personal Portfolio
+- 🍔 VINGO – Food Delivery Website
+- 🤖 AI Virtual Assistant
+- 📚 Study Circle
+- ✈️ Trip Planner
+
+---
+
+## 📈 Future Improvements
+
+- Blog Section
+- Admin Dashboard
+- Project Filtering
+- Theme Switcher
+- Multi-language Support
+- Email Integration
+
+---
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome.
+
+Feel free to fork this repository and submit a pull request.
+
+---
+
+## 📬 Contact
+
+**Ritik Kumar**
+
+📧 Email: your-email@example.com
+
+💼 LinkedIn: https://linkedin.com/in/your-profile
+
+🐙 GitHub: https://github.com/rk-ritik-raj
+
+🌐 Portfolio: https://your-portfolio-link.com
+
+---
+
+## ⭐ Support
+
+If you like this project, don't forget to give it a ⭐ on GitHub!
+
+---
+
+## 📄 License
+
+This project is licensed under the MIT License.
+
+---
+
+Made with ❤️ by **Ritik Kumar**
